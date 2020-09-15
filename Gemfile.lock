@@ -284,7 +284,6 @@ DEPENDENCIES
   jekyll-feed (~> 0.12)
   jekyll-paginate
   jekyll-remote-theme
-  minima (~> 2.5)
   tale
   tzinfo (~> 1.2)
   tzinfo-data

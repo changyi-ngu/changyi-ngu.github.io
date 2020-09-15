@@ -1,6 +1,5 @@
 source "https://rubygems.org"
 
-gem "minima", "~> 2.5"
 gem "tale"
 gem "jekyll-remote-theme"
 gem "jekyll-paginate"
